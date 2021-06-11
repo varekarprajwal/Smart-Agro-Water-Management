@@ -59,9 +59,6 @@ Modern agriculture relies on **data-driven decision-making** to maximize product
 The components are connected as shown in the following diagram:  
 *(Add your circuit diagram image here, e.g., `circuit_diagram.png`)*  
 
-```markdown
-![Circuit Diagram](circuit_diagram.png)
-
 ## 💻 Software & Setup
 
 This project uses MicroPython.
